@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Moza_app_new/static/css/main.61e85409.css",
+    "main.js": "/Moza_app_new/static/js/main.e82d69b5.js",
+    "static/media/table@3x.png": "/Moza_app_new/static/media/table@3x.5937f19a24ca900ecc6b.png",
+    "index.html": "/Moza_app_new/index.html",
+    "main.61e85409.css.map": "/Moza_app_new/static/css/main.61e85409.css.map",
+    "main.e82d69b5.js.map": "/Moza_app_new/static/js/main.e82d69b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61e85409.css",
+    "static/js/main.e82d69b5.js"
+  ]
+}
